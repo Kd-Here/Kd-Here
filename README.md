@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->This is my profile.
-![](https://komarev.com/ghpvc/?username=Kd-Here&style=plastic)
+![](https://komarev.com/ghpvc/?username=Kd-Here&label=Total+Visitor&color=yellow)
 
 
 <!-- 
