@@ -19,11 +19,20 @@ Here are some ideas to get you started:
 
 
 <h1> My learnings 
-<h2> DSA
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kd-here&show_icons=true&locale=en&layout=compact" alt="kd-here" /></p>
+<h2> DSA 
 <h2> Development Frontend & Backend
 <h2> AI ML Supervised
-<h2> Techonology Blockchain
+<h2> Techonology Blockchain</h2></h1>
 
-<!-- 
-![](https://komarev.com/ghpvc/?username=Kd-Here&label=PROFILE+VIEWS)
- -->
+ 
+ 
+ 
+
+
+ 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kd-here&" alt="kd-here" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=kd-here&show_icons=true&locale=en" alt="kd-here" />
+ </p>
+ 
