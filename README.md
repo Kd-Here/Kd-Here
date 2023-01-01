@@ -15,8 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->This is my profile.
-![](https://komarev.com/ghpvc/?username=Kd-Here&label=Total+Visitor&color=yellow)
+![](https://komarev.com/ghpvc/?username=Kd-Here&label=Profile+Visitor&color=yellow)
 
+
+<h1> My learnings 
+<h2> DSA
+<h2> Development Frontend & Backend
+<h2> AI ML Supervised
+<h2> Techonology Blockchain
 
 <!-- 
 ![](https://komarev.com/ghpvc/?username=Kd-Here&label=PROFILE+VIEWS)
