@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+
 
 <!--
 **Kd-Here/Kd-Here** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->This is my profile.
+![](https://komarev.com/ghpvc/?username=Kd-Here&style=plastic)
+
+
+<!-- 
+![](https://komarev.com/ghpvc/?username=Kd-Here&label=PROFILE+VIEWS)
+ -->
