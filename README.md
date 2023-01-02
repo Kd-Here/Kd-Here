@@ -17,10 +17,14 @@ Here are some ideas to get you started:
 -->This is my profile.
 ![](https://komarev.com/ghpvc/?username=Kd-Here&label=Profile+Visitor&color=yellow)
 
+![samursi-samurai](https://user-images.githubusercontent.com/90677747/210197536-06a4bd25-3a6f-4516-ae59-1d5dc2f3302a.gif)
+![1gap](https://user-images.githubusercontent.com/90677747/210197919-994403ae-e430-45f5-bd94-59e300c7a642.gif)
 
-<h1> My learnings 
-<!--  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kd-here&show_icons=true&locale=en&layout=compact" alt="kd-here" /></p> --> -->
 
+
+
+
+<h1> My learnings   
 <h2> DSA  
 <h2> Development Frontend & Backend
 <h2> AI ML Supervised
