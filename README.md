@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <!--  ![Language Counts](https://github-readme-stats.vercel.app/api/top-langs/?username=kd-here&layout=compact&exclude_repo=Machine-Learning,Machine-Learning_Modules,AutonomousCar)
 <!-- Here exclude repo is for hiding the repo count so add which you want to hide  -->
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kd-here&theme=radical&hide_border=true&border_radius=3.8)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kd-here&theme=radical&hide_border=true&border_radius=3.8)]()
 
 
   <a><img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kd-here&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="192px"/></a>
