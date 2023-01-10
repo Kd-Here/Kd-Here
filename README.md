@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->This is my profile.
 ![](https://komarev.com/ghpvc/?username=Kd-Here&label=Profile+Visitor&color=yellow)
 
-<img align="right" width="210" height="210" src="https://user-images.githubusercontent.com/90677747/211471004-9e33adfa-d9cb-4497-9857-a608c767bb18.gif">
+<img align="right" width="160" height="160" src="https://user-images.githubusercontent.com/90677747/211471004-9e33adfa-d9cb-4497-9857-a608c767bb18.gif">
 
 
 
