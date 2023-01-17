@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 
 
   <a><img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kd-here&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="192px"/></a>
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kd-here&langs_count=6&layout=compact&theme=radical&hide_border=true&&&exclude_repo=Machine-Learning,PixelLibInstanceSegmentation,Machine-Learning_Modules,AutonomousCar," height="192px"/></a>
+  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kd-here&langs_count=8&layout=compact&theme=radical&hide_border=true&&&exclude_repo=Machine-Learning,PixelLibInstanceSegmentation,Machine-Learning_Modules,AutonomousCar," height="192px"/></a>
 
