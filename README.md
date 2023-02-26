@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->This is my profile.
+-->
+*Interests in computer vision,Autonomous Vehicles, space technology*
+
+
+Welcom to my profile.<br>
 ![](https://komarev.com/ghpvc/?username=Kd-Here&label=Profile+Visitor&color=yellow)
+
 
 <img align="right" width="160" height="160" src="https://user-images.githubusercontent.com/90677747/211471004-9e33adfa-d9cb-4497-9857-a608c767bb18.gif">
 
@@ -24,12 +29,6 @@ Here are some ideas to get you started:
 
 
 
-
-<h1> My learnings   
-<h2> DSA  
-<h2> Development Frontend & Backend
-<h2> AI ML Supervised
-<h2> Techonology Blockchain</h2></h1>
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
   -->
  
